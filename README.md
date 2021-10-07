@@ -4,3 +4,7 @@ We human beings can communicate with each other, and express our feelings throug
 The availability of this type of data results in the low performance of machine learning models. But when we do the data cleaning and apply the computation steps to convert the data to proper English text while preserving its semantic meaning as well, it results in improving the performance of the deep learning and machine learning models. In this case study, we will be using social media text messages (which may be corrupted English sentences) and convert them to proper English sentences with the help of deep learning models.
 
 So you would get the code details above but if you want to see how I approached this problem than you can read my blog:- https://medium.com/@rahulBisht40/sentence-correction-using-recurrent-neural-networks-477f432e49f5
+
+
+https://user-images.githubusercontent.com/88244693/136423645-94845b91-17ef-4100-a26d-72a506ba71ec.mp4
+
